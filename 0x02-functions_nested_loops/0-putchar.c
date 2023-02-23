@@ -1,6 +1,7 @@
 #include "main.h"
 /**
- * main - print_putchar
+ * main - print _putchar
+ * is written by andrew
  * Return: 0
  */
 
